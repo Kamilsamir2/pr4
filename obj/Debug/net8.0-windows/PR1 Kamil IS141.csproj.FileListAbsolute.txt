@@ -1,0 +1,21 @@
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141_MarkupCompile.cache
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141_MarkupCompile.lref
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.dll
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\refint\PR1 Kamil IS141.dll
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.pdb
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\bin\Debug\net8.0-windows\PR1 Kamil IS141.exe
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\bin\Debug\net8.0-windows\PR1 Kamil IS141.deps.json
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\bin\Debug\net8.0-windows\PR1 Kamil IS141.runtimeconfig.json
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\bin\Debug\net8.0-windows\PR1 Kamil IS141.dll
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\bin\Debug\net8.0-windows\PR1 Kamil IS141.pdb
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\App.baml
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.g.resources
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.AssemblyInfoInputs.cache
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.AssemblyInfo.cs
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.csproj.CoreCompileInputs.cache
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\PR1 Kamil IS141.genruntimeconfig.cache
+C:\Users\Камиль Ганиев\source\repos\PR1 Kamil IS141\PR1 Kamil IS141\obj\Debug\net8.0-windows\ref\PR1 Kamil IS141.dll
